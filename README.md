@@ -20,7 +20,7 @@ The user can log in via an OTP process, explore various destinations (Goa, Araku
 
 | Technology | Purpose |
 | :--- | :--- |
-| *Primary Language* | Java (Original) / *Python 3* (Converted) |
+| *Primary Language* |  *Python 3*  |
 | *Libraries* | *None* (Pure Python Standard Library) |
 | *OOP Concepts* | Inheritance, Abstraction (Bank, Amount), Polymorphism |
 | *I/O & UX* | input(), print(), random, and *ANSI Color Codes* for enhanced terminal output. |
